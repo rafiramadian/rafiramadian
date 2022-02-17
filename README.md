@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Rafi Ramadian Rahman**.
 
-Saya seorang **Android Developer Student** di [Dicoding](https://www.dicoding.com/).
+Saya seorang **Flutter Developer Student** di [Alterra Academy](https://www.alta.id/).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rafi-ramadian-rahman-b72281219/)ku ya.
 
